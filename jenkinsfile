@@ -5,7 +5,7 @@ pipeline {
         stage('Hello') {
             steps {
          sh '''#!/bin/bash
-                 echo "hello world" 
+                 echo "siva" 
          '''                
                 
             }
